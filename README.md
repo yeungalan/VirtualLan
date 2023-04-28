@@ -23,7 +23,7 @@ VirtualLAN is a software-defined network that allows you to connect multiple dev
 
 ## Example:
 - (Computer 10.0.0.1)> vlan.exe -remote 10.0.0.2:1900
-- (Computer 10.0.0.2)> vlan.exe -remtoe 10.0.0.1:1900
+- (Computer 10.0.0.2)> vlan.exe -remote 10.0.0.1:1900
 
 DHCP:
 ![image](https://user-images.githubusercontent.com/12872405/235243881-de36ca9b-c7d4-412c-9a54-b0f12dbde1ed.png)
